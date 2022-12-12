@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.lucasmveigabr.gympasstest.GympassTestTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-12T23:07:05" hostname="DESKTOP-PS11ETC" time="0.485">
+  <properties/>
+  <testcase name="getSubsets_CorrectlyReturnsEmptyForEmptyInput()" classname="br.com.lucasmveigabr.gympasstest.GympassTestTest" time="0.016"/>
+  <testcase name="getSubsets_linearTest()" classname="br.com.lucasmveigabr.gympasstest.GympassTestTest" time="0.017"/>
+  <testcase name="getSubsets_DifferentOrderTest()" classname="br.com.lucasmveigabr.gympasstest.GympassTestTest" time="0.001"/>
+  <testcase name="getSubsets_CorrectCountForHugeInput()" classname="br.com.lucasmveigabr.gympasstest.GympassTestTest" time="0.449"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

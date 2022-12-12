@@ -1,0 +1,1 @@
+C:\Projetos\GympassTest\build\classes\kotlin\main\br\com\lucasmveigabr\gympasstest\GympassTest.class
